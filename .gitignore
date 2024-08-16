@@ -1,0 +1,4 @@
+*.pkl
+images/
+outputs/test_train_sim.json
+outputs/val_train_sim.json
